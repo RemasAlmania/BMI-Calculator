@@ -40,10 +40,5 @@ You can add your own images inside a `screenshots/` folder in the repository and
 ![65B79F88-6044-4FA0-83A8-FCD48EDAC3E2_1_201_a](https://github.com/user-attachments/assets/cc634d2b-f694-44a1-9d96-89421af1fd99)
 
 
-###  BMI Result Display
-![3B88E847-DCA7-4F84-B6C5-881DCF18F051_1_201_a](https://github.com/user-attachments/assets/d7c8cdd0-bf59-4597-9201-c55c1a72bdf3)
 
-
-###  Health Notes Section
-![9DF0BC89-EB44-48B9-A4DD-4CD217464F5D_1_201_a](https://github.com/user-attachments/assets/f47cc314-6b30-4820-98e6-ce9e6cfcf699)
 
